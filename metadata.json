@@ -1,0 +1,8 @@
+{
+  "name": "Doxie Delights",
+  "description": "A premium dachshund accessory store featuring custom-fit bandanas, weatherproof coats, and a specialized AI dachshund expert assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
